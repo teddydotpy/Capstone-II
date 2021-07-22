@@ -4,5 +4,6 @@ In this capstone project we design a recurrent neural netwrok to explore how it 
 
 The images below describe the acccuracy and losss over the iterations respectively.
 ![The accuracy over the iterations.](images/download.png)
+?
 ![The accuracy loss the iterations.](images/'download (1).png')
 
